@@ -1,5 +1,5 @@
 /* # Ejercicios
-
+d
 - Crea una función totalPrice que reciba un precio y le sume el IVA.
 
 - Crea una función llamada writeMessage que reciba "name, material, size y note" y que escriba el siguiente mensaje por consola "[name] ha pedido una caja de [material] de tamaño [size]. [note]. */
